@@ -22,7 +22,7 @@ class BoardMember {
     return "You will see great things from Scuber."
   }
   
-  prototype.sayHi() {
+  function.prototype.sayHi() {
     return `Hi, my name is ${this.name}. I am from ${this.homestate}, and I was trained in ${this.training}`
   }
   
