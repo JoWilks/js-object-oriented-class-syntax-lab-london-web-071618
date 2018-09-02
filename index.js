@@ -6,5 +6,5 @@ class BoardMember {
     this.training = training;
   }
   
-  
+  v
 }
